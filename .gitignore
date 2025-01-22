@@ -30,7 +30,6 @@ Thumbs.db
 /.mvn/             # For Maven projects
 
 # Ignore environment and configuration files
-.env
 .env.local
 .env.*.local
 *.config.js
